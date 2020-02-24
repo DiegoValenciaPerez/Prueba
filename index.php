@@ -77,6 +77,8 @@
                 </div>
                 <div class="opt">
                   <div><a title="Archivo en el mismo directorio" href="archivo2.php">Archivo creado</a></div>
+                  <?php echo "Mensaje"; ?>
+                  <p>Modificaciones por aparte de lo que no se debe modificar</p>
                 </div>
             </div>
 
